@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = CommandService.Contracts
+build_property.ProjectDir = C:\MicroservicesCourse\CommandService\src\Contracts\

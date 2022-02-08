@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = CommandService.Core
+build_property.ProjectDir = C:\MicroservicesCourse\CommandService\src\Core\
