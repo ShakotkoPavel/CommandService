@@ -25,3 +25,10 @@ C:\MicroservicesCourse\CommandService\src\WebApi\obj\Debug\net5.0\CommandService
 C:\MicroservicesCourse\CommandService\src\WebApi\obj\Debug\net5.0\ref\CommandService.WebApi.dll
 C:\MicroservicesCourse\CommandService\src\WebApi\obj\Debug\net5.0\CommandService.WebApi.pdb
 C:\MicroservicesCourse\CommandService\src\WebApi\obj\Debug\net5.0\CommandService.WebApi.genruntimeconfig.cache
+C:\MicroservicesCourse\CommandService\src\WebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\MicroservicesCourse\CommandService\src\WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\MicroservicesCourse\CommandService\src\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MicroservicesCourse\CommandService\src\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\MicroservicesCourse\CommandService\src\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\MicroservicesCourse\CommandService\src\WebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\MicroservicesCourse\CommandService\src\WebApi\obj\Debug\net5.0\CommandService.WebApi.csproj.AssemblyReference.cache
